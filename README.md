@@ -8,7 +8,7 @@ Download the HTML file to your computer.
 
 shell
 Copy code
-git clone https
+git clone https://github.com/19Archmiel88/Incremental-List-Elements/blob/master/index.html
 Open the HTML file in any web browser.
 
 The project will run, and you can add elements to the list by clicking the button.
@@ -22,7 +22,7 @@ Use the git clone command to download the HTML file to a chosen directory on you
 
 shell
 Copy code
-git clone https
+git clone https://github.com/19Archmiel88/Incremental-List-Elements/blob/master/index.html
 After cloning the repository, open the HTML file in any web browser.
 
 The project will run, and you can add elements to the list by clicking the button.
